@@ -30,7 +30,7 @@ The Personal Safety Application is a comprehensive tool designed to enhance pers
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/personal-safety-app.git
+   git clone https://github.com/Sherin-SEF-AI/PythonPersonalSafetyApp.git
    cd personal-safety-app
    ```
 
@@ -66,3 +66,18 @@ python personal_safety_app.py
 
 This application is designed for personal safety, but it should not be relied upon as the sole means of emergency response. Always ensure you have access to traditional emergency services and follow local safety guidelines.
 
+
+Dependencies
+
+PyQt5==5.15.6
+PyQtWebEngine==5.15.5
+geocoder==1.38.1
+twilio==7.0.0
+folium==0.12.1
+schedule==1.1.0
+requests==2.26.0
+pyaudio==0.2.11
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+phonenumbers==8.12.33
+python-dotenv==0.19.1
