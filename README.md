@@ -54,7 +54,7 @@ The Personal Safety Application is a comprehensive tool designed to enhance pers
 
 Run the application:
 ```
-python personal_safety_app.py
+python sos5.py
 ```
 
 - Use the GUI to navigate through different features.
