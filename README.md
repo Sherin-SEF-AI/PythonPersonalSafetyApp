@@ -80,7 +80,10 @@ phonenumbers==8.12.33
 
 Run the application:
 ```
-python sos5.py
+python3 sos5.py
+
+python3 sos6.py
+
 ```
 
 - Use the GUI to navigate through different features.
