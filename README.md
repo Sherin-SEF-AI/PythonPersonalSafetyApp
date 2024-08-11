@@ -36,7 +36,8 @@ The Personal Safety Application is a comprehensive tool designed to enhance pers
 
 2. Install the required dependencies:
 
-Dependencies
+python-dotenv==0.19.1
+
 
 PyQt5==5.15.6
 
@@ -93,4 +94,3 @@ This application is designed for personal safety, but it should not be relied up
 
 
 
-python-dotenv==0.19.1
